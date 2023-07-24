@@ -6,7 +6,7 @@
 
 ## 세가지 상태
 
-![areas](assets\2.png)
+![areas](assets/2.png)
 
 ## 명령어
 
