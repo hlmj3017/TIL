@@ -31,5 +31,5 @@ git remote add origin <remoterurl>
 
 ```shell
 git push origin master
-'```
+```
 - `master` 브랜치를 `origin` 원격저장소로 업로드
